@@ -1,1 +1,1 @@
-# Trabalho-Faculdade-em-Python-1
+# Projeto-da-Faculdade-em-Python-1
