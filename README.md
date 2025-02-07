@@ -5,10 +5,10 @@ Desenvolvi este programa em Python para calcular a espessura do material isolant
 
 🛠 **Tecnologias Utilizadas**  
 - Linguagem Python
-- Biblioteca `<math.h>` para cálculos matemáticos  
+- Biblioteca `math` para cálculos matemáticos  
 
 📚 **O que aprendi/desenvolvi**  
 - Utilização da função `pow()` para cálculos de potência  
-- Manipulação de entrada e saída de dados com `scanf()` e `printf()`  
+- Manipulação de entrada e saída de dados com `input()` e `print()`  
 - Aplicação de conceitos de transferência de calor, como convecção interna e externa  
-- Implementação de fórmulas físicas dentro de um programa computacional  
+- Como calcular propriedades térmicas a partir de variáveis físicas
