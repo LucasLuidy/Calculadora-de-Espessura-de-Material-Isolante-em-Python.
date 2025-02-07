@@ -4,7 +4,7 @@
 Desenvolvi este programa em Python para calcular a espessura do material isolante em um sistema de refrigeração. Ele utiliza variáveis como temperatura do bulbo seco, umidade relativa e condutividade térmica para determinar o valor correto.  
 
 🛠 **Tecnologias Utilizadas**  
-- Linguagem C  
+- Linguagem Python
 - Biblioteca `<math.h>` para cálculos matemáticos  
 
 📚 **O que aprendi/desenvolvi**  
